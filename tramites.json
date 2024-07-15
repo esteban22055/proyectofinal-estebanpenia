@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "nombre": "Licencia de Conducir",
+        "costo": 1500
+    },
+    {
+        "id": "2",
+        "nombre": "Pasaporte",
+        "costo": 2000
+    },
+    {
+        "id": "3",
+        "nombre": "Cédula de Identidad",
+        "costo": 500
+    },
+    {
+        "id": "4",
+        "nombre": "Matrícula",
+        "costo": 800
+    },
+    {
+        "id": "5",
+        "nombre": "Carné de Salud",
+        "costo": 600
+    }
+]
